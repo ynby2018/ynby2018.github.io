@@ -1,5 +1,6 @@
 $ git init
 $ git add index.html
+$ git add .
 $ git commit -m "first commit"
 $ git branch -M main
 $ git remote add origin https://github.com/ynby2018/ynby2018.github.io.git
