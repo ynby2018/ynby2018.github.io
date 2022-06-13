@@ -55,3 +55,7 @@
 &nbsp;&nbsp;&nbsp;[ID_generater](http://sfz.uzuzuz.com/?region=320506&birthday=19860511&sex=2&num=5&r=39)
 &nbsp;&nbsp;&nbsp;[ColorPalettes](ColorPalettes.html)
 
+### cmds
+&nbsp;&nbsp;&nbsp;[ubuntu22.04 初始化配置](ubuntu2204init.md)
+&nbsp;&nbsp;&nbsp;[git命令](GitCmds.md)
+
