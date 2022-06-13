@@ -12,11 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;[自选股](http://quote.eastmoney.com/zixuan/?from=home)
 &nbsp;&nbsp;&nbsp;[深股通](http://data.10jqka.com.cn/hgt/sgtb/)
-&nbsp;&nbsp;&nbsp;[沪深资金流向](https://data.eastmoney.com/zjlx/detail.html)
+&nbsp;&nbsp;&nbsp;[全球债券](https://vipmoney.eastmoney.com/collect/min/govt_bonds/index.html)
 &nbsp;&nbsp;&nbsp;[沪深股通十大成交股](https://data.eastmoney.com/hsgt/top10.html)
-&nbsp;&nbsp;&nbsp;[沪深港通持股 > 个股排行](https://data.eastmoney.com/hsgtcg/list.html?mkt=001)
-&nbsp;&nbsp;&nbsp;[美国10年期国债收益率(US10YR)](https://wallstreetcn.com/markets/US10YR.OTC)
-&nbsp;&nbsp;&nbsp;[中国10年期国债收益率(CN10YR)](https://wallstreetcn.com/markets/codes/CN10YR.OTC)
 &nbsp;&nbsp;&nbsp;[MINING](https://www.mining.com/)
 &nbsp;&nbsp;&nbsp;[MINING-电池](https://www.mining.com/category/battery-metals/)
 &nbsp;&nbsp;&nbsp;[上海现货铜价](https://cu.iyunhui.com/market/sh/)
@@ -53,9 +50,10 @@
 &nbsp;&nbsp;&nbsp;[前端拾取坐标系统](http://geojson.io/#map=16/30.8154/120.4920)
 &nbsp;&nbsp;&nbsp;[Download Python | Python.org](https://www.python.org/downloads/)
 &nbsp;&nbsp;&nbsp;[ID_generater](http://sfz.uzuzuz.com/?region=320506&birthday=19860511&sex=2&num=5&r=39)
-&nbsp;&nbsp;&nbsp;[ColorPalettes](ColorPalettes.html)
+&nbsp;&nbsp;&nbsp;[ColorPalettes](static/ColorPalettes.html)
 
 ### cmds
-&nbsp;&nbsp;&nbsp;[ubuntu22.04 初始化配置](ubuntu2204init.md)
-&nbsp;&nbsp;&nbsp;[git命令](GitCmds.md)
+&nbsp;&nbsp;&nbsp;[ubuntu22.04 初始化配置](itnotes/ubuntu2204init.md)
+&nbsp;&nbsp;&nbsp;[git命令](itnotes/GitCmds.md)
+&nbsp;&nbsp;&nbsp;[vim命令](itnotes/VimCmds.md)
 
