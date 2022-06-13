@@ -13,6 +13,8 @@
 &nbsp;&nbsp;&nbsp;[自选股](http://quote.eastmoney.com/zixuan/?from=home)
 &nbsp;&nbsp;&nbsp;[深股通](http://data.10jqka.com.cn/hgt/sgtb/)
 &nbsp;&nbsp;&nbsp;[全球债券](https://vipmoney.eastmoney.com/collect/min/govt_bonds/index.html)
+&nbsp;&nbsp;&nbsp;[美国10年期国债收益率(US10YR)](https://wallstreetcn.com/markets/US10YR.OTC)
+&nbsp;&nbsp;&nbsp;[中国10年期国债收益率(CN10YR)](https://wallstreetcn.com/markets/codes/CN10YR.OTC)
 &nbsp;&nbsp;&nbsp;[沪深股通十大成交股](https://data.eastmoney.com/hsgt/top10.html)
 &nbsp;&nbsp;&nbsp;[MINING](https://www.mining.com/)
 &nbsp;&nbsp;&nbsp;[MINING-电池](https://www.mining.com/category/battery-metals/)
