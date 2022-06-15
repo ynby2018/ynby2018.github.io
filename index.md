@@ -59,3 +59,5 @@
 &nbsp;&nbsp;&nbsp;[git命令](itnotes/GitCmds.md)
 &nbsp;&nbsp;&nbsp;[vim命令](itnotes/VimCmds.md)
 
+### NOTES
+[索引](notes/notes_index.md)
