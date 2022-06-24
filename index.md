@@ -5,7 +5,6 @@
 &nbsp;&nbsp;&nbsp;[百度](https://www.baidu.com/)
 &nbsp;&nbsp;&nbsp;[地图](http://www.gditu.net/)
 &nbsp;&nbsp;&nbsp;[必应](https://cn.bing.com/)
-&nbsp;&nbsp;&nbsp;[驾校培训约课](http://zhjp.sz-its.cn)
 
 
 ### 新闻消息
@@ -30,14 +29,6 @@
 
 
 
-### 影视娱乐
-
-&nbsp;&nbsp;&nbsp;[Bilibili 个人空间 追剧](https://www.bilibili.com/)
-&nbsp;&nbsp;&nbsp;[斗鱼-我的关注](https://www.douyu.com/directory/myFollow)
-&nbsp;&nbsp;&nbsp;[NASA](https://www.nasa.gov/)
-&nbsp;&nbsp;&nbsp;[NASA Image and Video Library](https://images.nasa.gov/)
-&nbsp;&nbsp;&nbsp;[博客园](https://www.cnblogs.com/Tiago/)
-
 
 
 
@@ -58,6 +49,7 @@
 &nbsp;&nbsp;&nbsp;[ubuntu22.04 初始化配置](itnotes/ubuntu2204init.md)
 &nbsp;&nbsp;&nbsp;[git命令](itnotes/GitCmds.md)
 &nbsp;&nbsp;&nbsp;[vim命令](itnotes/VimCmds.md)
+&nbsp;&nbsp;&nbsp;[putty设置](itnotes/putty.md)
 
 ### NOTES
 [索引](notes/notes_index.md)
