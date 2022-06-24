@@ -50,6 +50,7 @@
 &nbsp;&nbsp;&nbsp;[git命令](itnotes/GitCmds.md)
 &nbsp;&nbsp;&nbsp;[vim命令](itnotes/VimCmds.md)
 &nbsp;&nbsp;&nbsp;[putty设置](itnotes/putty.md)
+&nbsp;&nbsp;&nbsp;[ffmpeg命令](itnotes/ffmpeg.md)
 
 ### NOTES
 [索引](notes/notes_index.md)
