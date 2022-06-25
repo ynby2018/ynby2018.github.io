@@ -52,6 +52,7 @@
 &nbsp;&nbsp;&nbsp;[putty设置](itnotes/putty.md)
 &nbsp;&nbsp;&nbsp;[ffmpeg命令](itnotes/ffmpeg.md)
 &nbsp;&nbsp;&nbsp;[MySQL命令](itnotes/MySQL.md)
+&nbsp;&nbsp;&nbsp;[Python](itnotes/Python.md)
 
 ### NOTES
 [笔记目录](notes/notes_index.md)
