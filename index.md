@@ -53,6 +53,7 @@
 &nbsp;&nbsp;&nbsp;[ffmpeg命令](itnotes/ffmpeg.md)
 &nbsp;&nbsp;&nbsp;[MySQL命令](itnotes/MySQL.md)
 &nbsp;&nbsp;&nbsp;[Python](itnotes/Python.md)
+&nbsp;&nbsp;&nbsp;[Linux firewall-cmd](itnotes/FirewallCmd.md)
 
 ### NOTES
 [笔记目录](notes/notes_index.md)
