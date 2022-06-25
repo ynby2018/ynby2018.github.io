@@ -4,6 +4,7 @@
 * [新冠检测试剂出口量大跌，红利期将尽](https://c.m.163.com/news/a/HAKNSE8F0534A4SC.html)
 * [“信息优势”不可跨越法律红线](https://paper.cnstock.com/html/2022-06/24/content_1630936.htm)
 * [Benchmark: Here’s what Goldman got wrong about lithium prices](https://www.mining.com/benchmark-heres-what-goldman-got-wrong-about-lithium-prices/)
+* [VIDEO: Goldman expects “sharp correction” for lithium price and cobalt, nickel pullback](https://www.mining.com/web/goldman-says-bull-market-in-battery-metals-is-finished-for-now/)
 * [Chile open to all paths to lithium mining, minister says](https://www.mining.com/web/chiles-mining-minister-says-country-open-to-new-lithium-tenders/)
 > COMMENTS
 
