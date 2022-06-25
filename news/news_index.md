@@ -7,7 +7,6 @@
 * [VIDEO: Goldman expects “sharp correction” for lithium price and cobalt, nickel pullback](https://www.mining.com/web/goldman-says-bull-market-in-battery-metals-is-finished-for-now/)
 * [Chile open to all paths to lithium mining, minister says](https://www.mining.com/web/chiles-mining-minister-says-country-open-to-new-lithium-tenders/)
 > COMMENTS
-
 > Now this is funny. These communists have spent most of the last 12 months saying they are going take over 100% of lithium deposits in Chile and make them wholely controlled by the state. But when lots of companies start shutting down projects and looking elsewhere they start saying. Well maybe you should try. Which means develop the project and build the plant in time for us to nationalise it.
 
 * [Lithium miners are going to compete for new licenses in Chile](https://www.mining.com/web/lithium-miners-are-going-to-compete-for-new-licenses-in-chile/)
