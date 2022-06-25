@@ -46,7 +46,7 @@
 &nbsp;&nbsp;&nbsp;[ColorPalettes](static/ColorPalettes.html)
 
 ### cmds
-&nbsp;&nbsp;&nbsp;[ubuntu22.04 初始化配置](itnotes/ubuntu2204init.md)
+&nbsp;&nbsp;&nbsp;[Ubuntu22.04 初始化配置](itnotes/ubuntu2204init.md)
 &nbsp;&nbsp;&nbsp;[git命令](itnotes/GitCmds.md)
 &nbsp;&nbsp;&nbsp;[vim命令](itnotes/VimCmds.md)
 &nbsp;&nbsp;&nbsp;[putty设置](itnotes/putty.md)
