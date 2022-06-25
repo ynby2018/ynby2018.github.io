@@ -45,7 +45,7 @@
 &nbsp;&nbsp;&nbsp;[ID_generater](http://sfz.uzuzuz.com/?region=320506&birthday=19860511&sex=2&num=5&r=39)
 &nbsp;&nbsp;&nbsp;[ColorPalettes](static/ColorPalettes.html)
 
-### cmds
+### Cmds
 &nbsp;&nbsp;&nbsp;[Ubuntu22.04 初始化配置](itnotes/ubuntu2204init.md)
 &nbsp;&nbsp;&nbsp;[git命令](itnotes/GitCmds.md)
 &nbsp;&nbsp;&nbsp;[vim命令](itnotes/VimCmds.md)
