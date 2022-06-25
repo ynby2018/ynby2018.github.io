@@ -53,7 +53,11 @@
 &nbsp;&nbsp;&nbsp;[ffmpeg命令](itnotes/ffmpeg.md)
 
 ### NOTES
-[索引](notes/notes_index.md)
+[笔记目录](notes/notes_index.md)
 
 ### 参考
-[参考页面目录](referrence/referrence_index.md)
+[参考目录](referrence/referrence_index.md)
+
+### 新闻收藏
+[新闻收藏目录](news/news_index.md)
+
