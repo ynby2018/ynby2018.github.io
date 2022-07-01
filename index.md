@@ -8,18 +8,12 @@
 
 
 ### 新闻消息
-
-&nbsp;&nbsp;&nbsp;[自选股](http://quote.eastmoney.com/zixuan/?from=home)
-&nbsp;&nbsp;&nbsp;[深股通](http://data.10jqka.com.cn/hgt/sgtb/)
-&nbsp;&nbsp;&nbsp;[全球债券](https://vipmoney.eastmoney.com/collect/min/govt_bonds/index.html)
 &nbsp;&nbsp;&nbsp;[美国10年期国债收益率(US10YR)](https://wallstreetcn.com/markets/US10YR.OTC)
 &nbsp;&nbsp;&nbsp;[中国10年期国债收益率(CN10YR)](https://wallstreetcn.com/markets/codes/CN10YR.OTC)
-&nbsp;&nbsp;&nbsp;[沪深股通十大成交股](https://data.eastmoney.com/hsgt/top10.html)
 &nbsp;&nbsp;&nbsp;[MINING](https://www.mining.com/)
 &nbsp;&nbsp;&nbsp;[MINING-电池](https://www.mining.com/category/battery-metals/)
 &nbsp;&nbsp;&nbsp;[上海现货铜价](https://cu.iyunhui.com/market/sh/)
 &nbsp;&nbsp;&nbsp;[铜云汇](https://cu.iyunhui.com/)
-&nbsp;&nbsp;&nbsp;[美国非农](https://www.mql5.com/zh/economic-calendar/united-states/nonfarm-payrolls)
 &nbsp;&nbsp;&nbsp;[国家外汇管理局-官方储备资产（2022年）](https://www.safe.gov.cn/safe/2021/0202/18180.html)
 &nbsp;&nbsp;&nbsp;[中国 居民消费价格指数(CPI)](https://data.eastmoney.com/cjsj/cpi.html)
 &nbsp;&nbsp;&nbsp;

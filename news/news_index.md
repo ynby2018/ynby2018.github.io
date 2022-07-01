@@ -1,4 +1,8 @@
 ## 新闻目录
+### 202207
+* [MCU芯片传砍单降价潮 半导体市场快速退烧](https://finance.eastmoney.com/a/202207012432016252.html)
+* [全球锂矿资源现状及发展趋势](http://www.imu.cgs.gov.cn/kcbhyly/202009/W020200925438537283156.pdf)
+* [孤独的炒股人！](https://guba.eastmoney.com/news,zssh000001,1083758920.html)
 
 ### 202206
 * [新冠检测试剂出口量大跌，红利期将尽](https://c.m.163.com/news/a/HAKNSE8F0534A4SC.html)
