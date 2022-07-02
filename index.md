@@ -6,28 +6,6 @@
 &nbsp;&nbsp;&nbsp;[地图](http://www.gditu.net/)
 &nbsp;&nbsp;&nbsp;[必应](https://cn.bing.com/)
 
-
-### 新闻消息
-&nbsp;&nbsp;&nbsp;[美国10年期国债收益率(US10YR)](https://wallstreetcn.com/markets/US10YR.OTC)
-&nbsp;&nbsp;&nbsp;[中国10年期国债收益率(CN10YR)](https://wallstreetcn.com/markets/codes/CN10YR.OTC)
-&nbsp;&nbsp;&nbsp;[MINING](https://www.mining.com/)
-&nbsp;&nbsp;&nbsp;[MINING-电池](https://www.mining.com/category/battery-metals/)
-&nbsp;&nbsp;&nbsp;[上海现货铜价](https://cu.iyunhui.com/market/sh/)
-&nbsp;&nbsp;&nbsp;[铜云汇](https://cu.iyunhui.com/)
-&nbsp;&nbsp;&nbsp;[国家外汇管理局-官方储备资产（2022年）](https://www.safe.gov.cn/safe/2021/0202/18180.html)
-&nbsp;&nbsp;&nbsp;[中国 居民消费价格指数(CPI)](https://data.eastmoney.com/cjsj/cpi.html)
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;[赣锋持股-Pilbara Minerals Ltd - 股票价格](https://www.msn.cn/zh-cn/money/stockdetails/fi-aa8lr7?ocid=ansMSNMoney11&duration=1D)
-&nbsp;&nbsp;&nbsp;[赣锋持股-Core Lithium (ASX:CXO) - 股票价格](https://www.msn.cn/zh-cn/money/stockdetails/fi-aa5rw7?ocid=ansMSNMoney11&duration=1D)
-&nbsp;&nbsp;&nbsp;[天齐持股-SES - 股票价格](https://www.msn.cn/zh-cn/money/stockdetails/fi-bztgpr?ocid=ansMSNMoney11&duration=1D)
-
-
-
-
-
-
-
-
 ### Tools
 
 &nbsp;&nbsp;&nbsp;[PYPI](https://pypi.org/)
@@ -57,4 +35,5 @@
 
 ### 新闻收藏
 [新闻收藏目录](news/news_index.md)
+[财经新闻](news/news_finance.md)
 
