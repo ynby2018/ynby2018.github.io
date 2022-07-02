@@ -7,7 +7,7 @@
 * [铜云汇](https://cu.iyunhui.com/)
 * [国家外汇管理局-官方储备资产（2022年）](https://www.safe.gov.cn/safe/2021/0202/18180.html)
 * [中国 居民消费价格指数(CPI)](https://data.eastmoney.com/cjsj/cpi.html)
-* [快讯 华尔街见闻7x24直播] (https://wallstreetcn.com/live/global)
+* [快讯 华尔街见闻7x24直播](https://wallstreetcn.com/live/global)
 * [赣锋持股-Pilbara Minerals Ltd - 股票价格](https://www.msn.cn/zh-cn/money/stockdetails/fi-aa8lr7?ocid=ansMSNMoney11&duration=1D)
 * [赣锋持股-Core Lithium (ASX:CXO) - 股票价格](https://www.msn.cn/zh-cn/money/stockdetails/fi-aa5rw7?ocid=ansMSNMoney11&duration=1D)
 * [天齐持股-SES - 股票价格](https://www.msn.cn/zh-cn/money/stockdetails/fi-bztgpr?ocid=ansMSNMoney11&duration=1D)
