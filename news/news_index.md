@@ -1,4 +1,4 @@
-## 新闻目录
+## 新闻收藏
 ### 202207
 * [MCU芯片传砍单降价潮 半导体市场快速退烧](https://finance.eastmoney.com/a/202207012432016252.html)
 * [全球锂矿资源现状及发展趋势](http://www.imu.cgs.gov.cn/kcbhyly/202009/W020200925438537283156.pdf)

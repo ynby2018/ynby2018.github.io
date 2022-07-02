@@ -34,6 +34,6 @@
 [参考目录](referrence/referrence_index.md)
 
 ### 新闻收藏
-[新闻收藏目录](news/news_index.md)
+[新闻收藏](news/news_index.md)
 [财经新闻](news/news_finance.md)
 
