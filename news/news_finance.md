@@ -11,3 +11,5 @@
 * [赣锋持股-Pilbara Minerals Ltd - 股票价格](https://www.msn.cn/zh-cn/money/stockdetails/fi-aa8lr7?ocid=ansMSNMoney11&duration=1D)
 * [赣锋持股-Core Lithium (ASX:CXO) - 股票价格](https://www.msn.cn/zh-cn/money/stockdetails/fi-aa5rw7?ocid=ansMSNMoney11&duration=1D)
 * [天齐持股-SES - 股票价格](https://www.msn.cn/zh-cn/money/stockdetails/fi-bztgpr?ocid=ansMSNMoney11&duration=1D)
+* [RIA.RU](https://ria.ru/)
+
