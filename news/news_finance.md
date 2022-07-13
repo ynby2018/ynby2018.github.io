@@ -12,4 +12,5 @@
 * [赣锋持股-Core Lithium (ASX:CXO) - 股票价格](https://www.msn.cn/zh-cn/money/stockdetails/fi-aa5rw7?ocid=ansMSNMoney11&duration=1D)
 * [天齐持股-SES - 股票价格](https://www.msn.cn/zh-cn/money/stockdetails/fi-bztgpr?ocid=ansMSNMoney11&duration=1D)
 * [RIA.RU](https://ria.ru/)
+* [北方稀土挂牌价](https://www.reht.com/h-nr-j-4_33.html)
 
