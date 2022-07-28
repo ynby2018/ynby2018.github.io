@@ -6,6 +6,7 @@ sudo apt install fcitx-bin
 sudo apt-get install fcitx-table -y
 ```
 # 3、备份后，更换为清华源
+[Debian 镜像使用帮助|清华源](https://mirrors.tuna.tsinghua.edu.cn/help/debian/)
 ``` shell
 sudo cat /etc/apt/sources.list
 
