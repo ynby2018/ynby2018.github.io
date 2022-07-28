@@ -58,3 +58,6 @@ sudo mkfontdir
 
 sudo fc-cache
 ```
+# 10、[GRUB美化](https://www.gnome-look.org/p/1307852)
+[Tela grub theme](https://github.com/vinceliuice/grub2-themes)
+[Sleek GrubBootloader themes](https://github.com/sandesh236/sleek--themes)
